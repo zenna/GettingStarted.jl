@@ -1,0 +1,9 @@
+name = "MNIST"
+uuid = "f44f57f1-ccd9-4ddd-8cd4-f61a31576804"
+authors = ["Michelle Li <limich@mit.edu>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+MLDatasets = "eb30cadb-4394-5ae3-aed4-317e484a6458"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
